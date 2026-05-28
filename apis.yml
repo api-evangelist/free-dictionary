@@ -1,0 +1,32 @@
+aid: free-dictionary
+name: Free Dictionary
+description: "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
+url: https://dictionaryapi.dev/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Dictionaries"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Dictionaries
+  - Public APIs
+apis:
+  - name: Free Dictionary
+    description: "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
+    humanURL: https://dictionaryapi.dev/
+    baseURL: https://dictionaryapi.dev/
+    tags:
+      - Dictionaries
+    properties:
+      - type: Documentation
+        url: https://dictionaryapi.dev/
+common:
+  - type: Website
+    url: https://dictionaryapi.dev/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
