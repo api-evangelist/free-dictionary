@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/free-dicti
 name: Free Dictionary
 description: "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
 url: https://dictionaryapi.dev/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
