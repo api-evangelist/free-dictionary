@@ -39,7 +39,6 @@ apis:
   - name: Free Dictionary
     description: "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
     humanURL: https://dictionaryapi.dev/
-    baseURL: https://dictionaryapi.dev/
     tags:
       - Dictionaries
     properties:
